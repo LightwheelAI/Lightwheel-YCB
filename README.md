@@ -1,6 +1,6 @@
 # Lightwheel-YCB
 
-Lightwheel-YCB is a high-quality simulation asset benchmark built upon the [YCB Benchmarks](http://www.ycbbenchmarks.com/) - Object and Model Set. It features 106 meticulously crafted simulation-ready assets across three categories: Deformable, Articulated, and Rigid. Each asset is available in both MJCF and USD formats, ensuring compatibility with popular simulation frameworks.
+Lightwheel-YCB is a high-quality simulation asset benchmark built upon the [YCB Benchmarks](http://www.ycbbenchmarks.com/) - Object and Model Set. It features 125 meticulously crafted simulation-ready assets across three categories: Deformable, Articulated, and Rigid. Each asset is available in both MJCF and USD formats, ensuring compatibility with popular simulation frameworks.
 
 ---
 
@@ -42,7 +42,7 @@ Visit our website to download the complete collection of **106 simulation-ready 
 
 | **Total Assets** | **Categories** | **Formats** | **Base Dataset** |
 |------------------|----------------|--------------|-------------------|
-| 106 | Deformable / Articulated / Rigid | USD (Isaac Sim) & MJCF (MuJoCo) | [YCB Benchmarks](http://www.ycbbenchmarks.com/) |
+| 125 | Deformable / Articulated / Rigid | USD (Isaac Sim) & MJCF (MuJoCo) | [YCB Benchmarks](http://www.ycbbenchmarks.com/) |
 
 ---
 
