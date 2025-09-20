@@ -53,7 +53,7 @@ Lightwheel-YCB aims to provide the embodied AI community with an easily accessib
 
 **[👉 Download Lightwheel-YCB Assets](https://lightwheel.ai/)**  
 
-Visit our website to download the complete collection of **106 simulation-ready assets** in both USD and MJCF formats.
+Visit our website to download the complete collection of **125 simulation-ready assets** in both USD and MJCF formats.
 
 ---
 
